@@ -35,6 +35,3 @@ Formify built with next js and modern UI library Shadcn which makes it is easier
 ## Author
 - [Sanyam Chawla](https://www.linkedin.com/in/sanyam-chawla-b6b34019b)
 
-
-## License
-MIT license @ [Sanyam](sanyamchawla.netlify.app)
